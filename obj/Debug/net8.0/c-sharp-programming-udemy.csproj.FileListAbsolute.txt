@@ -1,0 +1,14 @@
+/root/RiderProjects/c-sharp-programming-udemy/bin/Debug/net8.0/c-sharp-programming-udemy
+/root/RiderProjects/c-sharp-programming-udemy/bin/Debug/net8.0/c-sharp-programming-udemy.deps.json
+/root/RiderProjects/c-sharp-programming-udemy/bin/Debug/net8.0/c-sharp-programming-udemy.runtimeconfig.json
+/root/RiderProjects/c-sharp-programming-udemy/bin/Debug/net8.0/c-sharp-programming-udemy.dll
+/root/RiderProjects/c-sharp-programming-udemy/bin/Debug/net8.0/c-sharp-programming-udemy.pdb
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.GeneratedMSBuildEditorConfig.editorconfig
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.AssemblyInfoInputs.cache
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.AssemblyInfo.cs
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.csproj.CoreCompileInputs.cache
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.dll
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/refint/c-sharp-programming-udemy.dll
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.pdb
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.genruntimeconfig.cache
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/ref/c-sharp-programming-udemy.dll
