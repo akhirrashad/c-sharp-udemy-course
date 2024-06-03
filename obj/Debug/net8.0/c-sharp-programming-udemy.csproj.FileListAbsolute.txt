@@ -12,3 +12,4 @@
 /root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.pdb
 /root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.genruntimeconfig.cache
 /root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/ref/c-sharp-programming-udemy.dll
+/root/RiderProjects/c-sharp-programming-udemy/obj/Debug/net8.0/c-sharp-programming-udemy.sourcelink.json

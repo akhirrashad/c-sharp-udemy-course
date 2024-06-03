@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-programming-udemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+578e2a36a75566bee96b883e5f1d64ba86f114a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-programming-udemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-programming-udemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
